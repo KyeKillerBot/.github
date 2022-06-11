@@ -1,5 +1,5 @@
 # About the bot
-KyeKillerBot is a free multi-purpose that is easy to use and designed to be clean and fast to know about. It has all kind of features like: Moderation, Cases System, AutoMod System, Server stats, Music and so much more!
+KyeKillerBot is a free multi-purpose that is easy to use and designed to be clean and fast to know about. It has all kind of features like: Moderation, Cases System, AutoMod System, Server stats and so much more!
 
 # Things to note
 KyeKillerbot's default prefix is `k!` it's changeable by doing `k!prefixes add <your custom prefix>`. All events such as messageDelete and messageUpdate are all togglable through `k!toggleevents <the event you want to enable/disable>`. 
